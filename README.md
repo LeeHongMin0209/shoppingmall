@@ -1,26 +1,26 @@
 # Book ShoppingMall
 
 ### 주요기능
-* 로그인/회원가입
-* 책 선택 / 정보 보기
-* 장바구니 담기
-* 구매하기
-* 책 등록/삭제
-* 질문 등록/ 답변 조회
-* 답변 등록
+* **로그인/회원가입**
+* **책 선택 / 정보 보기**
+* **장바구니 담기**
+* **구매하기**
+* **책 등록/삭제**
+* **질문 등록/ 답변 조회**
+* **답변 등록**
 
 ### Skill
-* Java
-* JavaScript
-* jQuery
-* MySQL
+* **Java**
+* **JavaScript**
+* **jQuery**
+* **MySQL**
 
 ### DB
-* Manager
-* Book
-* Buy
-* Cart
-* Member
+* **Manager**
+* **Book**
+* **Buy**
+* **Cart**
+* **Member**
 
 ***
 ## Use Case
