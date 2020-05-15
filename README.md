@@ -30,6 +30,8 @@
 * **Member**
 
 ***
+<br/>
+
 ## Use Case
 <img width="1081" alt="ShoppMall usecase" src="https://user-images.githubusercontent.com/64480971/82079838-7d95be00-971e-11ea-94ca-0e998736a5f6.PNG">
 
