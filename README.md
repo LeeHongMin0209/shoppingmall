@@ -46,4 +46,8 @@
 ![관리자 모드 로그인](https://user-images.githubusercontent.com/64480971/82160407-20da0500-98d0-11ea-8043-fb2f41cab217.gif)
 
 ***
+## 책 그림 등록
 
+![그림 등록](https://user-images.githubusercontent.com/64480971/82160524-f3da2200-98d0-11ea-8b95-cea1ed83b243.gif)
+
+***
