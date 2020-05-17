@@ -47,7 +47,10 @@
 
 ***
 ## 책 그림 등록
+# 관리자 모드(책 수정) -> 그림 등록 -> 구매자 화면에서 그림 등록 확인
 
-![그림 등록](https://user-images.githubusercontent.com/64480971/82160524-f3da2200-98d0-11ea-8b95-cea1ed83b243.gif)
+<br/>
+
+![그림 등록](https://user-images.githubusercontent.com/64480971/82160581-5d5a3080-98d1-11ea-985d-0c9a7ebb1b6a.gif)
 
 ***
