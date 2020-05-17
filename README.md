@@ -43,6 +43,7 @@
 ***
 ## 관리자 Main  
 
-![관리자 모드 로그인](https://user-images.githubusercontent.com/64480971/82160407-20da0500-98d0-11ea-8043-fb2f41cab217.gif){: width="100" height="100"}
+![관리자 모드 로그인](https://user-images.githubusercontent.com/64480971/82160407-20da0500-98d0-11ea-8043-fb2f41cab217.gif)
 
 ***
+
