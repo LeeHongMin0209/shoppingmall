@@ -43,6 +43,6 @@
 ***
 ## 관리자 Main  
 
-<img width="613" alt="관리자모드" src="https://user-images.githubusercontent.com/64480971/82160351-aa3d0780-98cf-11ea-9766-f330bb8c2f33.PNG">
+![관리자 모드 로그인](https://user-images.githubusercontent.com/64480971/82160407-20da0500-98d0-11ea-8043-fb2f41cab217.gif)
 
 ***
