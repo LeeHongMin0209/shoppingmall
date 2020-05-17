@@ -43,7 +43,8 @@
 ***
 ## 관리자 Main  
 
-![관리자 모드 로그인](https://user-images.githubusercontent.com/64480971/82160407-20da0500-98d0-11ea-8043-fb2f41cab217.gif)
+![관리자로그인](https://user-images.githubusercontent.com/64480971/82160830-f63d7b80-98d2-11ea-9c04-41cfab430b05.gif)
+
 
 ***
 ## 책 그림 등록
