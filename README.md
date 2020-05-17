@@ -54,3 +54,8 @@
 ![그림 등록](https://user-images.githubusercontent.com/64480971/82160581-5d5a3080-98d1-11ea-985d-0c9a7ebb1b6a.gif)
 
 ***
+
+## 책 구매
+### 구매자 책 구매 화면
+![책 구매](https://user-images.githubusercontent.com/64480971/82160687-07d25380-98d2-11ea-8c57-7d25f1d1cf2c.gif)
+***
