@@ -60,7 +60,8 @@
 
 <br/>
 
-![책 구매](https://user-images.githubusercontent.com/64480971/82160687-07d25380-98d2-11ea-8c57-7d25f1d1cf2c.gif)
+![책 구매](https://user-images.githubusercontent.com/64480971/82160816-e4f46f00-98d2-11ea-8ace-b7877deadb65.gif)
+
 ***
 
 ## QnA 등록/답변
