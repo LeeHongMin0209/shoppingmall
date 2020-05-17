@@ -43,6 +43,8 @@
 ***
 ## 관리자 Main  
 
+<br/>
+
 ![관리자로그인](https://user-images.githubusercontent.com/64480971/82160830-f63d7b80-98d2-11ea-9c04-41cfab430b05.gif)
 
 
@@ -67,3 +69,8 @@
 
 ## QnA 등록/답변
 ### 구매자 QnA 등록 -> 관리자 QnA 답변 -> 구매자 QnA 답변 
+
+<br/>
+
+![qna 등록,답변](https://user-images.githubusercontent.com/64480971/82160884-4e747d80-98d3-11ea-95f2-4c98c568ccfd.gif)
+
