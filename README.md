@@ -51,7 +51,7 @@
 
 <br/>
 
-![그림 등록](https://user-images.githubusercontent.com/64480971/82160581-5d5a3080-98d1-11ea-985d-0c9a7ebb1b6a.gif)
+![그림등록](https://user-images.githubusercontent.com/64480971/82160737-5f70bf00-98d2-11ea-90aa-1c125525ff26.gif)
 
 ***
 
@@ -62,3 +62,6 @@
 
 ![책 구매](https://user-images.githubusercontent.com/64480971/82160687-07d25380-98d2-11ea-8c57-7d25f1d1cf2c.gif)
 ***
+
+## QnA 등록/답변
+### 구매자 QnA 등록 -> 관리자 QnA 답변 -> 구매자 QnA 답변 
