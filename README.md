@@ -57,5 +57,8 @@
 
 ## 책 구매
 ### 구매자 책 구매 화면
+
+<br/>
+
 ![책 구매](https://user-images.githubusercontent.com/64480971/82160687-07d25380-98d2-11ea-8c57-7d25f1d1cf2c.gif)
 ***
